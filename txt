@@ -1,0 +1,26 @@
+kipao-site/
+│
+├── index.html
+├── manifest.json
+│
+├── public/
+│   ├── images/
+│   │   ├── hero.jpg
+│   │   ├── cta.jpg
+│   │   ├── pao.jpg
+│   │   ├── bolo.jpg
+│   │   └── salgado.jpg
+│   │
+│   └── icons/
+│       ├── favicon.png
+│       └── icon-192.png
+│
+├── css/
+│   ├── style.css
+│   ├── animations.css
+│   └── scroll-effects.css
+│
+└── js/
+    ├── main.js
+    ├── scroll-effects.js
+    └── magnetic-buttons.js
